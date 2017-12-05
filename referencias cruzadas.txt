@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-prueb123
-
-=======
-prueba02
->>>>>>> branch02

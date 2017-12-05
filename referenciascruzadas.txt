@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+prueb123
+
+<<<<<<< HEAD:referencias cruzadas.txt
+=======
+prueba02
+>>>>>>> branch02
+=======
+
+
+prueba2
+>>>>>>> Branch01:referenciascruzadas.txt
